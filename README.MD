@@ -1,9 +1,9 @@
-## go2coding.github.io
+# HiddenMan_AI
 AI工具导航，chatgpt，midjourney，notion ai，tome.app
 
 
-## 特色功能
-HiddenMan_AI.com 是一个开源导航网站，旨在为爱好人工智能的人提供一个全面的资源汇总平台。它主要包含以下四个核心功能：
+# 特色功能
+## HiddenMan_AI.com 是一个开源导航网站，旨在为爱好人工智能的人提供一个全面的资源汇总平台。它主要包含以下四个核心功能：
 
 1. 最新AI产品介绍：展示了国内知名的AI工具和服务，为用户提供了解行业动态、快速选定合适产品的渠道。
 
