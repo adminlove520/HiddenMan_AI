@@ -1,5 +1,5 @@
 /*! Hugo版Anonymous主题 - v2.0.0
- * https://github.com/iplaycode/Anonymous-hugo/ */
+ * https://github.com/iplaycode/Anonymous/ */
 var public_vars = public_vars || {};
 jQuery.extend(public_vars, {
     breakpoints: {

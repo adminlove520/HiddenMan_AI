@@ -85,7 +85,7 @@
       <pubDate>Tue, 28 Jul 2020 19:27:08 +0800</pubDate>
       
       <guid>https://go2coding.github.io/about/</guid>
-      <description>这是 Hugo 版 Anonymous 主题 本项目是基于纯静态的网址导航网站 Anonymous.cc 制作的 Hugo 主题，其中部分代码参考了以下几个开源项目： https://github.com/liutongxu/liutongxu.github.io https://github.com/iplaycode/Anonymous-hugo 主题安装后，将 exampleSite 目录下的文件复制到 hugo 站</description>
+      <description>这是 Hugo 版 Anonymous 主题 本项目是基于纯静态的网址导航网站 Anonymous.cc 制作的 Hugo 主题，其中部分代码参考了以下几个开源项目： https://github.com/liutongxu/liutongxu.github.io https://github.com/iplaycode/Anonymous 主题安装后，将 exampleSite 目录下的文件复制到 hugo 站</description>
     </item>
     
   </channel>
