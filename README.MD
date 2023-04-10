@@ -14,9 +14,3 @@ HiddenMan_AI.com 是一个开源导航网站，旨在为爱好人工智能的人
 4. AI学习框架：介绍了当前主流的AI学习框架，为用户提供了解、选择、使用框架的便捷途径。
 
 
-
-
-![HiddenMan_AI_screenshot](https://HiddenMan_AI.com/assets/images/screenshot/shot.png)
-
-
-感谢 [一个基于 Hugo 的静态响应式网址导航主题](https://github.com/shenweiyan/Anonymous-Hugo)， 他是 在 [一个基于 Hugo 的静态响应式网址导航主题](https://github.com/shenweiyan/Anonymous-Hugo)的基础上修改而来，感谢[Anonymous.cc](https://github.com/AnonymousPage/AnonymousPage.github.io) 和其他人的贡献。
